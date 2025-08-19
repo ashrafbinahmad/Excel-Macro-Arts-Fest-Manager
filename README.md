@@ -1,6 +1,4 @@
-# Project Name
-
-Short description of what your project does and why it’s awesome.
+# Excel Arts Fest Manager
 
 ---
 
