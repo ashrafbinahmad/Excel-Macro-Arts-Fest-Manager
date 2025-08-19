@@ -22,7 +22,5 @@ If this project helps you, consider buying me a coffee!
 ```bash
 # clone
 git clone https://github.com//ashrafbinahmad/Excel-Macro-Arts-Fest-Manager.git
-cd your-repo
-
-# install
-pnpm install  # or npm install / yarn
+```
+Start working on ARTS or SPORTS folders
