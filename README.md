@@ -8,7 +8,7 @@ Short description of what your project does and why it’s awesome.
 
 If this project helps you, consider buying me a coffee!
 
-<a href="https://www.buymeacoffee.com/YOUR_NAME" target="_blank">
+<a href="https://www.buymeacoffee.com/ashrafkuzhimanna" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
 </a>
 
@@ -23,7 +23,7 @@ If this project helps you, consider buying me a coffee!
 
 ```bash
 # clone
-git clone https://github.com/your-org/your-repo.git
+git clone https://github.com//ashrafbinahmad/Excel-Macro-Arts-Fest-Manager.git
 cd your-repo
 
 # install
